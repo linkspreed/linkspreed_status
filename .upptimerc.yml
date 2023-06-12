@@ -1,21 +1,325 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: linkspreed # Your GitHub organization or username, where this repository lives
+repo: linkspreed_status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Adseasy
+    url: https://adseasy.linkspreed.com
+  - name: Airr
+    url: https://airr.linkspreed.com
+  - name: Analytix
+    url: https://analytix.linkspreed.com
+  - name: Articly
+    url: https://articly.linkspreed.com
+  - name: Backpay
+    url: https://backpay.cf
+  - name: BeSave
+    url: https://besave.linkspreed.com
+  - name: BeYou
+    url: https://beyou.linkspreed.com
+  - name: Biospreed
+    url: https://biospreed.linkspreed.com
+  - name: BioX
+    url: https://biox.linkspreed.com
+  - name: Botchat
+    url: https://botchat.linkspreed.com
+  - name: CallCloud
+    url: https://callcloud.linkspreed.com
+  - name: Ceal
+    url: https://ceal.linkspreed.com
+  - name: Cheezz
+    url: https://cheezz.linkspreed.com
+  - name: Chirp
+    url: https://chirp.linkspreed.com
+  - name: Chitter
+    url: https://chitter.linkspreed.com
+  - name: Cloud2Go
+    url: https://cloud2go.linkspreed.com
+  - name: Cloud2Go Share
+    url: http://share.cloud2go.tk
+  - name: Cloud2Share
+    url: https://cloud2share.linkspreed.com
+  - name: CloudSpreed
+    url: https://cloudspreed.linkspreed.com
+  - name: Connected
+    url: https://connected.linkspreed.com
+  - name: Contribution
+    url: https://contribution.linkspreed.com
+  - name: Critch
+    url: https://critch.linkspreed.com
+  - name: CrossQA
+    url: https://crossqa.linkspreed.com
+  - name: Datify
+    url: https://datify.linkspreed.com
+  - name: DeePage
+    url: https://deepage.linkspreed.com
+  - name: Discounty
+    url: https://discounty.tk
+  - name: Diskit
+    url: https://diskit.linkspreed.com
+  - name: DNServer
+    url: https://dnserver.linkspreed.com
+  - name: Downflix
+    url: https://downflix.linkspreed.com
+  - name: Dreambuild
+    url: https://dreambuild.linkspreed.com
+  - name: Firelaps
+    url: https://firelaps.cf
+  - name: FlipX
+    url: https://flipx.tk
+  - name: ForJu
+    url: https://forju.tk
+  - name: GetPro
+    url: https://getpro.gq/
+  - name: Gogola
+    url: https://gogola.ml
+  - name: Grown
+    url: https://grown.tk
+  - name: Guju
+    url: https://guju.tk
+  - name: Him4Her
+    url: https://him4her.tk
+  - name: Hutty
+    url: https://hutty.tk
+  - name: IceCloud
+    url: https://icecloud.cf
+  - name: Ignyte
+    url: https://ignyte.tk
+  - name: Joyn
+    url: https://joyn.tk
+  - name: Kisk
+    url: https://kisk.tk
+  - name: KitChat
+    url: https://kitchat.tk
+  - name: LaaS
+    url: https://laas.ml
+  - name: LaaS Chatbot
+    url: https://chatbot.laas.ml
+  - name: LaaS Cloudchat
+    url: https://cloudchat.laas.ml
+  - name: LaaS Salesy
+    url: https://salesy.laas.ml
+  - name: Shorts
+    url: https://shorts.laas.ml
+  - name: LaaS Tasks
+    url: https://tasks.laas.ml
+  - name: Lime
+    url: https://lime.gq
+  - name: LinkCream
+    url: https://linkcream.tk
+  - name: Linkspreed
+    url: https://linkspreed.com
+  - name: Linkspreed AI
+    url: https://ai.linkspreed.com
+  - name: Linkspreed Assistant
+    url: https://assistant.linkspreed.com
+  - name: Linkspreed Analytics
+    url: https://analytics.linkspreed.com
+  - name: Linkspreed Drive
+    url: https://drive.linkspreed.com
+  - name: Linkspreed Helpdesk
+    url: https://helpdesk.linkspreed.com
+  - name: Linkspreed Mails
+    url: https://mails.linkspreed.com
+  - name: Linkspreed Office
+    url: https://office.linkspreed.com
+  - name: Linkspreed Panel
+    url: https://panel.linkspreed.com
+  - name: Linkspreed Photos
+    url: https://photos.linkspreed.com
+  - name: Linkspreed Play
+    url: https://play.linkspreed.com
+  - name: Linkspreed Store
+    url: https://store.linkspreed.com
+  - name: Linkspreed Web
+    url: https://web.linkspreed.com
+  - name: Linkspreed Web4
+    url: https://web4.linkspreed.com
+  - name: LinkLab
+    url: https://linklab.gq
+  - name: LSily
+    url: https://lsily.tk
+  - name: LSNews
+    url: https://lsnews.cf
+  - name: Mailspread
+    url: https://mailspread.cf
+  - name: Mapsli
+    url: https://mapsli.tk
+  - name: Memevid
+    url: https://memevid.tk
+  - name: Metabox
+    url: https://metabox.linkspreed.com
+  - name: Metaspace
+    url: https://metaspace.tk
+  - name: Musiccloud
+    url: https://musiccloud.cf
+  - name: MyBuy
+    url: https://mybuy.cf
+  - name: MyDancX
+    url: https://mydancx.cf
+  - name: Netavark
+    url: https://netavark.tk
+  - name: NetSky
+    url: https://netsky.tk
+  - name: NewsNode
+    url: https://newsnode.tk
+  - name: Niming
+    url: https://niming.tk
+  - name: Nither
+    url: https://nither.tk
+  - name: NodX
+    url: https://nodx.tk
+  - name: OnlyPaid
+    url: https://onlypaid.tk
+  - name: Ondu
+    url: https://ondu.tk
+  - name: Payback
+    url: https://payback.ga
+  - name: Payback
+    url: https://payback.gq
+  - name: PayCount
+    url: https://paycount.cf
+  - name: Peek
+    url: https://peek.ml
+  - name: Petabyte
+    url: https://petabyte.ml
+  - name: PinPix
+    url: https://pinpix.cf
+  - name: PinSec
+    url: https://pinsec.tk
+  - name: Pixly
+    url: https://pixly.tk
+  - name: Ples
+    url: https://ples.ml
+  - name: Plop
+    url: https://plop.tk
+  - name: Poddy
+    url: https://poddy.tk
+  - name: Podhub
+    url: https://podhub.cf
+  - name: Profilio
+    url: https://www.profilio.cf
+  - name: Pubit
+    url: https://pubit.tk
+  - name: Qizz
+    url: https://qizz.cf
+  - name: QRMe
+    url: https://qrme.cf
+  - name: Quexy
+    url: https://quexy.cf
+  - name: Rank
+    url: https://rank.linkspreed.com
+  - name: RealPin
+    url: https://realpin.tk
+  - name: Reply
+    url: https://reply.cf
+  - name: SeedSpreed
+    url: https://seedspreed.cf
+  - name: Share
+    url: https://share.linkspreed.com
+  - name: ShareNode
+    url: https://sharenode.tk
+  - name: Shortcut
+    url: https://shortcut.tk
+  - name: Shortrack
+    url: https://shortrack.tk
+  - name: Showit
+    url: https://showit.tk
+  - name: SiteSpace
+    url: https://sitespace.tk
+  - name: Slinky
+    url: https://slinky.ml
+  - name: Slurch
+    url: https://slurch.tk
+  - name: SmartPix
+    url: https://smartpix.cf
+  - name: SnapLink
+    url: https://snaplink.tk
+  - name: Snippite
+    url: https://snippite.tk
+  - name: Snoogie
+    url: https://snoogie.tk
+  - name: SoundChest
+    url: https://soundchest.cf 
+  - name: Spypy
+    url: https://spypy.cf
+  - name: Start2Up
+    url: https://start2up.tk
+  - name: Stix
+    url: https://stix.linkspreed.com
+  - name: Store4Ju
+    url: https://store4ju.tk
+  - name: Storee
+    url: https://storee.cf
+  - name: Storpad
+    url: https://storpad.tk
+  - name: StreamValley
+    url: https://streamvalley.cf 
+  - name: StreamValley API
+    url: https://api.streamvalley.cf 
+  - name: Tacuu
+    url: https://tacuu.tk
+  - name: Takestore
+    url: https://takestore.tk
+  - name: Tasksboard
+    url: https://tasksboard.tk
+  - name: Taya
+    url: https://taya.cf
+  - name: Teamix
+    url: https://teamix.cf
+  - name: Teamslite
+    url: https://teamslite.tk
+  - name: TeamSpreed
+    url: https://teamspreed.cf
+  - name: Teamy
+    url: https://teamy.tk
+  - name: Textpad
+    url: https://textpad.cf
+  - name: Tizza
+    url: https://tizza.tk
+  - name: Toolbox
+    url: https://toolbox.linkspreed.com
+  - name: Toolkit
+    url: https://toolkit.gq
+  - name: Tuit
+    url: https://tuit.cf
+  - name: Tungolino
+    url: https://tungolino.tk
+  - name: Tweetch
+    url: https://tweetch.cf 
+  - name: Twig
+    url: https://twig.cf
+  - name: uCube
+    url: https://ucube.cf
+  - name: UltiCloud
+    url: https://ulticloud.tk
+  - name: Up2Date
+    url: https://up2date.tk
+  - name: UpDown
+    url: https://updown.ml
+  - name: UpNode
+    url: https://upnode.cf
+  - name: VoiceClub
+    url: https://voiceclub.tk
+  - name: Web5
+    url: https://web5.cf
+  - name: Whatsline
+    url: https://whatsline.tk
+  - name: Workspreed
+    url: https://workspreed.tk
+  - name: Wrap
+    url: https://wrap.gq
+  - name: Write
+    url: https://write.cf
+  - name: Yourpod
+    url: https://yourpod.cf
+  - name: Zlit
+    url: https://zlit.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.linkspreed.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
